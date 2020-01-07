@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magazine Design on YINING XU</title>
+    <link>https://yining-xu.com/categories/magazine-design/</link>
+    <description>Recent content in Magazine Design on YINING XU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, Yining Xu.</copyright>
+    
+	<atom:link href="https://yining-xu.com/categories/magazine-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zootopia</title>
+      <link>https://yining-xu.com/post/hugoisforlovers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yining-xu.com/post/hugoisforlovers/</guid>
+      <description>A magazine design inspired by my travelling in Vietnam. *Designed it in the eternal summer of Vietnam.*`
+This is my first Adobe Indesign practice: a magazine design which is inspired by my trip in the zoo at Vietnam during reading week.
+Target Children are always curious about animals and treat them as friends. This magazine design aims at attracting children with cute animal silhouttes and rich colors. </description>
+    </item>
+    
+  </channel>
+</rss>
