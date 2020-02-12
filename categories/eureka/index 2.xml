@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eureka on YINING XU</title>
+    <link>https://yining-xu.com/categories/eureka/</link>
+    <description>Recent content in Eureka on YINING XU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, Yining Xu.</copyright>
+    
+	<atom:link href="https://yining-xu.com/categories/eureka/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Where is the next new social media platform?</title>
+      <link>https://yining-xu.com/post/blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yining-xu.com/post/blockchain/</guid>
+      <description>I came up with this decentralised social network when discussing the current application of blockchain in China with my fellows in the Infinite Studio.
+ The best feature of my proposed project is the equal relationship between the platform and users. Firstly, users will be able to decide the extent to which they can safely exchange their data for profits. The blockchain technology will also enable users to easily transfer their social media accounts to a safer platform without worrying about the potentially huge opportunity cost.</description>
+    </item>
+    
+  </channel>
+</rss>
